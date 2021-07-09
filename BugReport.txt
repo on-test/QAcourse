@@ -1,0 +1,15 @@
+Issue id
+Issue type
+Affects version
+Issue Name
+Severity
+Priority
+Assigned to
+Reported by
+Status
+Environment
+Description/Steps to reproduce
+Expected Result
+Attachments
+Links
+
