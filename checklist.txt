@@ -1,0 +1,13 @@
+Build
+Environment
+Test date
+Tester
+
+      Test type    Description    Result
+  
+1) Function 1
+List of actions for function 1
+2) Function 2
+List of actions for function 2
+etc
+
